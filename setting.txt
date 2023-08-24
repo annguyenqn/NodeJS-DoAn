@@ -1,1 +1,4 @@
- tạo db : npx sequelize-cli db:migrate 
+migrate : dùng để thao tác với db, add, edit table/column ...
+tạo db : npx sequelize-cli db:migrate 
+services: nhận data từ phía controller và thao tác về phía db
+ 
